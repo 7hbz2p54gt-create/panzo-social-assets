@@ -1,0 +1,79 @@
+PANZO LISTING KIT (use only these facts; anything marked [OWNER] = ask the owner)
+
+BASICS
+Product name: Panzo
+Company (legal): Stonesyz Private Limited (Panzo is its brand)
+Website: https://thepanzo.com
+App sign-in: https://app.thepanzo.com
+Contact email: hello@thepanzo.com
+Demo / contact page: https://thepanzo.com/contact
+Pricing page: https://thepanzo.com/pricing
+Markets: India, United Arab Emirates, Singapore
+Platforms: Web (SaaS, cloud); iOS and Android apps
+App Store: https://apps.apple.com/app/panzo/id6814109065
+Google Play: https://play.google.com/store/apps/details?id=com.thepanzo.app
+Facebook: https://www.facebook.com/1356921100828435
+Instagram: https://www.instagram.com/thepanzo
+LinkedIn: https://www.linkedin.com/company/thepanzo
+X: https://x.com/thepanzoapp
+Launched: 20 October 2026
+Founded year, founder name, team size, address, phone: [OWNER]
+Free trial: [OWNER] (if unsure, "Demo on request")
+Languages: English
+
+CATEGORIES (pick the closest the site offers)
+Construction Management Software, Interior Design Software, Project Management, CRM, Field Service / Site Management, Quoting / Estimating (BOQ)
+
+LOGO
+Square 512px: https://thepanzo.com/brand/panzo-icon-e-512.png
+Wide: https://thepanzo.com/brand/panzo-horizontal.svg
+
+SCREENSHOTS (demo data)
+https://thepanzo.com/product/blog-featured-dashboard.png
+https://thepanzo.com/product/gallery-lead.png
+https://thepanzo.com/product/gallery-quote-header.png
+https://thepanzo.com/product/gallery-purchase-order.png
+https://thepanzo.com/product/gallery-receipts.png
+https://thepanzo.com/product/gallery-service-ticket.png
+https://thepanzo.com/product/mobile-gallery-leads.png
+Video (23 s): https://raw.githubusercontent.com/7hbz2p54gt-create/panzo-social-assets/main/posts/2026-10/2026-10-21-launch-video.mp4
+
+TAGLINE (max 60 chars)
+Interior business software, from enquiry to handover.
+
+ONE LINE (max 160 chars)
+Panzo runs interior and fit-out firms in one place: leads, BOQs, quotes, procurement, site work, billing, handover and service.
+
+SHORT (~50 words)
+Panzo is software for interior, fit-out, modular and turnkey firms in India, the UAE and Singapore. It connects leads, room-wise BOQs, quotations, procurement, site execution, tax-correct billing, handover and service in one platform, on web and mobile, with built-in Panzo AI that drafts, reviews and explains quotations.
+
+MEDIUM (~150 words)
+Interior and fit-out firms usually run on WhatsApp groups, spreadsheets and a notebook on site. Panzo replaces that with one connected platform, from the first enquiry to handover and after-sales service.
+
+Every lead gets an owner and a follow-up date. Deals turn into room-wise BOQs and quotations clients can approve. Approved work flows into procurement, purchase orders and site execution, where the team files daily site reports from the phone, even offline. Billing is tax-correct for India GST, UAE VAT and Singapore GST, and every payment is tied to its project and milestone. Handover and service tickets stay on the same project record.
+
+Built-in Panzo AI drafts, reviews and explains quotations. Panzo runs on web, iOS and Android, and is built for interior, fit-out, modular and turnkey firms in India, the UAE and Singapore.
+
+LONG (~300 words) = MEDIUM, plus:
+Who it's for: owners, sales, design, project, site, procurement and finance teams in interior and fit-out businesses, from small studios to multi-city firms.
+What's different: one shared record from enquiry to service, so data entered once carries through BOQ, quote, purchase, site, billing and handover; mobile-first site work; and simple per-company pricing, with clients opening no-login share links never counted as users.
+
+KEY FEATURES
+- Leads and deals: one owner per lead, follow-up dates, stage-aware next actions
+- Room-wise BOQ and quotations, with Panzo AI to draft, review and explain them
+- Procurement: vendors, purchase orders
+- Site execution: tasks and daily site reports from the phone, offline-ready
+- Billing for India GST, UAE VAT and Singapore GST; receipts tied to project milestones
+- Handover and after-sales service tickets
+- Dashboards for sales, design, execution, finance and HR
+- Web plus iOS and Android apps
+
+PRICING (monthly per company, excl. tax; annual = 10x monthly)
+Starter: INR 2,999 / AED 349 / SGD 99 (10 office users, 5 field users)
+Growth: INR 8,999 / AED 999 / SGD 399 (30 office users, 15 field users)
+Enterprise: custom
+Extra field user: INR 59 / AED 9 / SGD 3 per month
+Pricing model: subscription, per company per month; annual billing available.
+
+RULES
+No customer names, customer counts or reviews. Never invent facts. Free listings only.
