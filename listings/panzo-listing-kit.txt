@@ -68,12 +68,11 @@ KEY FEATURES
 - Dashboards for sales, design, execution, finance and HR
 - Web plus iOS and Android apps
 
-PRICING (monthly per company, excl. tax; annual = 10x monthly)
-Starter: INR 2,999 / AED 349 / SGD 99 (10 office users, 5 field users)
-Growth: INR 8,999 / AED 999 / SGD 399 (30 office users, 15 field users)
-Enterprise: custom
-Extra field user: INR 59 / AED 9 / SGD 3 per month
+PRICING (owner rule 2026-10-21: prices may change, so NO price figures in any directory)
+Every tier / price field: "Contact for pricing" (or "Contact us"). No numbers in any pricing description.
+Tiers (names and limits only): Starter (10 office users, 5 field users) · Growth (30 office users, 15 field users) · Enterprise (custom).
 Pricing model: subscription, per company per month; annual billing available.
+Current prices live only on https://thepanzo.com/pricing - link there if a field asks for a pricing page.
 
 PRODUCT DETAILS FOR FORMS
 Logo file: download https://thepanzo.com/brand/panzo-icon-e-512.png (square PNG, 512 px) and upload it.
@@ -81,7 +80,7 @@ Languages: English
 Deployment: Cloud / SaaS (web) = Yes; mobile apps iOS and Android = Yes; On-premise = No
 Licensing: Proprietary (subscription)
 Support (from thepanzo.com FAQ): every plan includes support by email (hello@thepanzo.com); larger teams get onboarding help and a named contact.
-Training / onboarding: onboarding and data migration help (bring existing project and vendor data across). Paid one-time onboarding add-on: INR 9,999 / AED 2,999 / SGD 990 (UAE/SG: waived on annual Growth).
+Training / onboarding: onboarding and data migration help (bring existing project and vendor data across). Onboarding is a paid one-time add-on (see thepanzo.com/pricing; no figures in listings).
 Security and compliance: NO security certifications (no SOC 2, no ISO 27001) - select none. Facts you may state: data encrypted in transit; personal data export under India's DPDP Act; customer data is not sold or used for advertising.
 Headquarters, company size, founded year, founder name: [OWNER] (ask; never guess)
 
